@@ -1,3 +1,6 @@
+// BashBoss
+// By Edward Xavier
+
 #include <Tinyfont.h>
 #include <ArduboyTones.h>
 #include <Arduboy2.h>
